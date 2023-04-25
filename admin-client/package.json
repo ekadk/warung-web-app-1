@@ -1,0 +1,28 @@
+{
+  "name": "warung-client",
+  "version": "0.0.0",
+  "scripts": {
+    "tailwind-dev": "npx tailwindcss -i ./input.css -o ./src/assets/output.css --watch",
+    "dev": "npx vite --port 8080 --host localhost",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
+  },
+  "dependencies": {
+    "axios": "^1.2.0",
+    "sweetalert2": "^11.6.13",
+    "vue": "^3.2.41",
+    "vue-loading-overlay": "^6.0.2",
+    "vue3-google-login": "^2.0.12"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.1.4",
+    "@vitejs/plugin-vue": "^3.1.2",
+    "@vue/eslint-config-prettier": "^7.0.0",
+    "eslint": "^8.22.0",
+    "eslint-plugin-vue": "^9.3.0",
+    "prettier": "^2.7.1",
+    "tailwindcss": "^3.2.4",
+    "vite": "^3.1.8"
+  }
+}

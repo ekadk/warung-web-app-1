@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Ayam Betutu",
+    "description": "Ayam Betutu dimasak dengan bumbu betutu, yaitu bumbu khas Bali yang terbuat dari campuran daun jeruk, sereh, salam, kunyit, kemiri, jahe, bawang merah, dan bumbu lainnya. Ayam yang dimasak dengan bumbu ini tentu akan menghasilkan cita rasa yang begitu lezat.",
+    "price": "25500",
+    "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2022/07/14/rekomendasi-ayam-betutu_169.jpeg?w=620",
+    "authorId": "1",
+    "categoryId": "1"
+  },
+  {
+    "name": "Sate Lilit",
+    "description": "Sate lilit terbuat dari daging ayam atau ikan yang digiling. Daging ini kemudian dicampur dengan parutan kelapa dan dililit pada batang bambu atau sereh.",
+    "price": "20000",
+    "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2022/06/18/10-resep-masakan-bali-populer-ayam-betutu-hingga-sate-lilit-5_169.jpeg?w=620",
+    "authorId": "2",
+    "categoryId": "2"
+  },
+  {
+    "name": "Nasi Jinggo",
+    "description": "Nasi jinggo biasanya akan disajikan dengan daging, mie, sambal goreng tempe, dan sambal. Sate lilit juga kerap kali dijadikan makanan untuk melengkapi nasi jinggo.",
+    "price": "20000",
+    "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2022/10/04/kuliner-nasi-jinggo-sambal-lindung-negaroa-di-angkringan-penggak-jepun-jembrana-bali-senin-3102022-2_169.jpeg?w=620",
+    "authorId": "3",
+    "categoryId": "3"
+  },
+  {
+    "name": "Nasi Tepeng",
+    "description": "Nasi tepeng biasanya disajikan dengan ayam goreng, telur, terong, dan kacang-kacangan. Di daerah asalnya, makanan ini sering dijadikan menu untuk sarapan.",
+    "price": "5000",
+    "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2022/10/27/1200631456_169.jpeg?w=620",
+    "authorId": "1",
+    "categoryId": "3"
+  },
+  {
+    "name": "Sate Plecing",
+    "description": "Sate ini dimasak dengan bumbu khas Bali yang bernama plecing yang terbuat dari kemiri, terasi, tomat, bawang putih, dan beberapa bumbu lainnya.",
+    "price": "5000",
+    "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2022/04/11/sate-plecing_169.jpeg?w=620",
+    "authorId": "2",
+    "categoryId": "2"
+  },
+  {
+    "name": "Tum Ayam",
+    "description": "Tum ayam merupakan olahan ayam yang diberi racikan bumbu dan dibungkus dengan daun pisang. Bumbu tersebut merupakan campuran dari bawang putih, bawang merah, cabai, daun salam, jahe, serai, dan lain-lain.",
+    "price": "5000",
+    "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2018/03/13/c2d38715-0aab-4524-aa78-0a0076752c8b.jpeg?w=455",
+    "authorId": "2",
+    "categoryId": "4"
+  },
+  {
+    "name": "Rujak Bulung",
+    "description": "Jika biasanya rujak terdiri dari bermacam-macam buah-buahan, lain halnya dengan rujak bulung. Kuliner satu ini menggunakan bahan rumput laut yang disiram dengan kuah pindang dan ditambah kelapa parut serta kedelai goreng.",
+    "price": "5000",
+    "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2022/05/13/mencicip-lezatnya-rujak-bulung-campur-kuah-pindang-khas-bali.jpeg?w=4000",
+    "authorId": "2",
+    "categoryId": "5"
+  },
+  {
+    "name": "Sate Kakul",
+    "description": "Sate kaku merupakan kuliner tradisional Bali yang berasal dari daerah Ubud. Sate kakul menggunakan bahan utama berupa siput dan memiliki cita rasa yang khas, tidak kalah dengan daging ayam ataupun sapi.",
+    "price": "5000",
+    "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2016/12/14/4c741362-7d3c-44a1-ab79-c956f1c72300_169.jpg?w=620",
+    "authorId": "2",
+    "categoryId": "2"
+  },
+  {
+    "name": "Nasi campur",
+    "description": "nasi campur terdiri dari berbagai macam komponen seperti nasi putih, sate lilit, ayam suwir bumbu genep, urap, sambal matah, dan beberapa komponen lainnya.",
+    "price": "5000",
+    "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2022/10/01/nasi-campur-1.jpeg?w=828",
+    "authorId": "2",
+    "categoryId": "3"
+  },
+  {
+    "name": "Sambal Matah",
+    "description": "Sambal yang satu ini sangat cocok untuk mendampingi makanan lain. Cita rasa pedas dari sambal matah dijamin akan membuat selera makan meningkat.",
+    "price": "5000",
+    "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2022/03/11/dapoer-kebun-cicip-ayam-sambal-matah-hingga-kopi-pala-di-resto-rasa-bali-11_169.jpeg?w=620",
+    "authorId": "2",
+    "categoryId": "4"
+  },
+  {
+    "name": "Kuah Komoh",
+    "description": "Makanan Bali yang satu ini berisi kulit, hati, dan juga daging. Daging yang biasa digunakan adalah bebek, daging ayam, atau babi. Biasanya makanan ini akan disajikan pada saat acara rohani atau keagamaan.",
+    "price": "5000",
+    "imgUrl": "",
+    "authorId": "2",
+    "categoryId": "5"
+  },
+  {
+    "name": "Lempet",
+    "description": "Lempet adalah makanan khas Bali yang terbuat dari ikan yang sudah diberi bumbu dan dibungkus dengan daun pisang. Lalu, lempet dipanggang di atas bara api hingga matang dan siap disajikan.",
+    "price": "5000",
+    "imgUrl": "",
+    "authorId": "2",
+    "categoryId": "4"
+  },
+  {
+    "name": "Jukut Ares",
+    "description": "Dalam bahasa setempat jukut artinya sayur dan ares artinya anak batang pisang. Sesuai dengan namanya, bahan utama dari hidangan ini yaitu batang pohon pisang. Disajikan berkuah dengan kaldu tulang hewan, rasa pedas gurih dari jukut ares cocok sekali dinikmati ketika musim hujan tiba.",
+    "price": "5000",
+    "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2016/12/14/1f50eb14-9e82-44e5-b6be-7e6638185ebd.jpg?w=700",
+    "authorId": "2",
+    "categoryId": "4"
+  },
+  {
+    "name": "Nasi Lawar",
+    "description": "nasi lawar adalah masakan Bali yang berisi campuran sayur dan juga daging. Biasanya, makanan ini menggunakan daging babi sebagai bahan campurannya.",
+    "price": "15000",
+    "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2022/05/14/lezatnya-megibung-nasi-lawar-di-warung-bhineka-muda-sanur-3_169.jpeg?w=620",
+    "authorId": "2",
+    "categoryId": "3"
+  },
+  {
+    "name": "Nasi Kuning Bali",
+    "description": "Nasi kuning Bali sering disajikan dalam berbagai macam perayaan. Makanan ini terbuat dari beras yang dimasak bersama dengan kunyit serta santan dan rempah-rempah yang dilengkapi dengan sate lilit dan makanan pelengkap lainnya.",
+    "price": "10000",
+    "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2022/10/27/1403582600_169.jpeg?w=620",
+    "authorId": "1",
+    "categoryId": "3"
+  },
+  {
+    "name": "Serapah Daging",
+    "description": "Serapah daging adalah jenis lauk yang terbuat dari daging yang diberi bumbu dengan aneka rempah, santan, dan tepung beras. Masyarakat Bali menggunakan daging bagi dalam memasak hidangan ini.",
+    "price": "10000",
+    "imgUrl": "",
+    "authorId": "1",
+    "categoryId": "3"
+  },
+  {
+    "name": "Bebek Betutu",
+    "description": "Hidangan ini menggunakan bahan utama bebek yang dimasak dengan bumbu betutu khas Bali.",
+    "price": "20000",
+    "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2017/12/05/36fc5db6-9510-42e8-bf83-d03e8d31b444.jpg?w=638",
+    "authorId": "1",
+    "categoryId": "1"
+  },
+  {
+    "name": "Soto Sampi",
+    "description": "Makanan ini terdiri dari daging sapi dan babat serta berbagai rempah-rempah untuk dijadikan kuah. Tidak lupa juga ditambah dengan sayur lobak, bawang goreng, dan seledri.",
+    "price": "20000",
+    "imgUrl": "",
+    "authorId": "1",
+    "categoryId": "5"
+  },
+  {
+    "name": "Sate Languan Ikan",
+    "description": "Sate ini terbuat dari olahan daging ikan yang dililit pada batang bambu atau sereh. Makanan ini begitu populer di daerah pesisir,seperti di daerah Kabupaten Klungkung.",
+    "price": "15000",
+    "imgUrl": "",
+    "authorId": "3",
+    "categoryId": "2"
+  },
+  {
+    "name": "Bandeng Bumbu Bali",
+    "description": "Sesuai dengan namanya, makanan ini menggunakan ikan bandeng sebagai bahan utamanya. Sementara itu, bumbu bali memiliki ciri khas masakan berwarna merah, yang terbuat dari rempah-rempah. Bumbu bali terdiri dari cabai merah, bawang merah, bawang putih, jahe, dan kecap manis.",
+    "price": "15000",
+    "imgUrl": "",
+    "authorId": "3",
+    "categoryId": "3"
+  },
+  {
+    "name": "Nasi Sela",
+    "description": "Nasi Sela merupakan makanan yang khas dari daerah Karangasem. Dalam bahasa setempat, sela memiliki arti ubi. Maka dari itu, nasi sela merupakan nasi dengan lauk tertentu yang ditambah dengan cacahan ubi sehingga memberikan rasa yang manis.",
+    "price": "15000",
+    "imgUrl": "",
+    "authorId": "2",
+    "categoryId": "3"
+  },
+  {
+    "name": "Tipat Cantok",
+    "description": "Makanan ini merupakan olahan dari ketupat yang kemudian diaduk aduk dengan bumbu. Dalam penyajiannya, tipat cantok juga akan disertai dengan aneka sayuran.",
+    "price": "10000",
+    "imgUrl": "",
+    "authorId": "2",
+    "categoryId": "5"
+  },
+  {
+    "name": "Telor Base Genep",
+    "description": "Telor base genep adalah olahan khas Bali yang menggunakan telur sebagai bahan utamanya. Base genep sendiri merupakan bumbu dasar yang dipakai untuk masakan khas Bali.",
+    "price": "5000",
+    "imgUrl": "",
+    "authorId": "1",
+    "categoryId": "4"
+  },
+  {
+    "name": "Jukut Urap",
+    "description": "Jukut urap sering ditemukan dalam sajian nasi campur. Dikutip dari detikfood, jukut urap terdiri dari berbagai sayuran yang disiram dengan bumbu khas Bali.",
+    "price": "10000",
+    "imgUrl": "",
+    "authorId": "1",
+    "categoryId": "4"
+  },
+  {
+    "name": "Lawar Kuwir",
+    "description": "Lawar kuwir adalah makanan khas Bali yang menggunakan bahan baku sayur-sayuran. Lawar kuwir juga menggunakan daging entok dalam pengolahannya.",
+    "price": "10000",
+    "imgUrl": "",
+    "authorId": "1",
+    "categoryId": "4"
+  }
+]

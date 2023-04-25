@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Paket Nasi Ayam Betutu Goreng",
+    "description": "Nasi putih, ayam betutu goreng, sate lilit, sambal matah, sambal terasi, plecing kangkung, kacang goreng",
+    "price": "25500",
+    "imgUrl": "https://cf.shopee.co.id/file/32cc5ab923632f7bf693172006f5c90e",
+    "authorId": "1",
+    "categoryId": "1"
+  },
+  {
+    "name": "Paket Nasi Ayam Betutu Kuah",
+    "description": "Nasi putih, ayam betutu, sate lilit, sambal matah, plecing kangkung, kacang goreng ",
+    "price": "20000",
+    "imgUrl": "https://cdf.orami.co.id/unsafe/cdn-cas.orami.co.id/parenting/images/ayam-betutu.width-800.jpegquality-80.jpg",
+    "authorId": "2",
+    "categoryId": "1"
+  },
+  {
+    "name": "Nasi Campur Bali",
+    "description": "Nasi putih, kacang goreng, sate tusuk, sate lilit, urab, lawartum ayam, pepes ikan, sambal mbe, sambal matah, sambal terasi, ayam sisit, ayam bumbu rajang, udang bumbu bali, telur ares",
+    "price": "20000",
+    "imgUrl": "https://d1sag4ddilekf6.azureedge.net/compressed_webp/items/AWjvL8yz2bMmVZfr_lta-CYXHR2KBGP5TSA/detail/menueditor_item_c3568f161f4541e296a66af18abb2206_1622427342570349953.webp",
+    "authorId": "3",
+    "categoryId": "2"
+  },
+  {
+    "name": "Air mineral dingin",
+    "description": "Air mineral dingin",
+    "price": "5000",
+    "imgUrl": "https://asset.kompas.com/crops/u8xYYCtGiP2WURmINF0Cggn9U2k=/137x112:937x645/750x500/data/photo/2020/03/04/5e5f688cb38f7.jpg",
+    "authorId": "1",
+    "categoryId": "4"
+  },
+  {
+    "name": "Es Teh",
+    "description": "Es teh",
+    "price": "5000",
+    "imgUrl": "https://asset.kompas.com/crops/GRGOpdUcySMF4sTvMlSEpJpFcTM=/0x0:4939x3293/750x500/data/photo/2022/09/25/63300cfd403f0.jpg",
+    "authorId": "2",
+    "categoryId": "4"
+  }
+]

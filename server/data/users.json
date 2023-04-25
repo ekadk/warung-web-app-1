@@ -1,0 +1,26 @@
+[
+  {
+    "username": "Qwerty",
+    "email": "qwerty@mail.com",
+    "password": "qwerty",
+    "role": "Admin",
+    "phoneNumber": "123456",
+    "address": "unknown street"
+  },
+  {
+    "username": "Asdf",
+    "email": "asdf@mail.com",
+    "password": "12345",
+    "role": "Staff",
+    "phoneNumber": "123456",
+    "address": "unknown street"
+  },
+  {
+    "username": "jkl",
+    "email": "jkl@mail.com",
+    "password": "12345",
+    "role": "Staff",
+    "phoneNumber": "123456",
+    "address": "unknown street"
+  }
+]

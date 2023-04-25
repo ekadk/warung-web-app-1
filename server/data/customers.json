@@ -1,0 +1,18 @@
+[
+  {
+    "username": "customer1",
+    "email": "customer1@mail.com",
+    "password": "customer1",
+    "role": "Customer",
+    "phoneNumber": "123456",
+    "address": "unknown street"
+  },
+  {
+    "username": "customer2",
+    "email": "customer2@mail.com",
+    "password": "customer2",
+    "role": "Customer",
+    "phoneNumber": "123456",
+    "address": "unknown street"
+  }
+]
